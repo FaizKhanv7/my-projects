@@ -1,0 +1,29 @@
+{
+  "idea": "My projects and linkedin profile.",
+  "templateId": "minimal",
+  "content": {
+    "siteKind": "portfolio",
+    "title": "My Projects",
+    "tagline": "Selected works and experience",
+    "intro": "Personal projects and professional background.",
+    "sections": [
+      {
+        "title": "Professional Background",
+        "body": "Summary of my experience, view more on LinkedIn"
+      },
+      {
+        "title": "Current Projects",
+        "body": "Ongoing projects, including coding experiments and personal tools"
+      },
+      {
+        "title": "Past Projects",
+        "body": "Completed projects and achievements"
+      }
+    ],
+    "cta": {
+      "label": "View LinkedIn",
+      "note": "Full professional profile"
+    },
+    "footerNote": "Contact for collaboration"
+  }
+}
